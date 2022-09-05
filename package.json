@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "express": "^4.18.1",
+    "node": "^16.17.0",
+    "nodemon": "^2.0.19"
+  },
+  "name": "din-din",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": ".\\node_modules\\.bin\\nodemon index.js",
+    "alternativo": "npx nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
